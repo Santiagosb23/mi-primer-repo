@@ -2,7 +2,7 @@
 
 ## verificar el estado del repositor local
 git status
-##agreagar los archivos nuevos al repositorio local
+## agreagar los archivos nuevos al repositorio local
 git add --all
 ## confirmamos los archivos nuevos
 git commit -m "descripción del cambio nuevo"
